@@ -17,3 +17,16 @@
         }
     }
 </script>
+<style lang="scss" scoped>
+    td{
+        border: 1px solid #ddd;
+        padding: 8px;
+        &:last-child{
+            display: flex;
+            justify-content: space-around;
+        }
+    }
+    button{
+        cursor:pointer;
+    }
+</style>

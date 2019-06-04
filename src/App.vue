@@ -12,5 +12,7 @@
   }
 </script>
 <style lang="scss">
-
+  #app{
+    padding: 10px;
+  }
 </style>
