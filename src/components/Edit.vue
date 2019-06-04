@@ -57,6 +57,8 @@
         }
     }
     .itemContainer{
+        max-width: 1024px;
+        margin: auto;
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
